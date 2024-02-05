@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+	width: 100%;
+	line-height: 60px;
+	background: #3c3c3c;
+}
+
+header .logo {
+	padding: 0 20px;
+	font-size: 18px;
+	color: #fff;
+	letter-spacing: .2em;
+}
+
+header .logo span {
+	margin-left: 10px;
+	font-size: 14px;
+	color: #fff;
+	letter-spacing: .1em;
+	vertical-align: middle;
+}
+
+#container{
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+}
